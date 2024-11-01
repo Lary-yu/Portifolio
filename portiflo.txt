@@ -1,0 +1,47 @@
+#sobremim{
+    color: black;
+    position: relative;
+    left: 18vw;
+    width: 6vw;
+    bottom: 6vh;
+    font-family: "Sree Krushnadevaraya", serif;
+    font-weight: 400;
+  font-size: 20px;
+    
+}
+#projetos{
+    color: black;
+    position: relative;
+    left: 36vw;
+    width: 2vw;
+    bottom: 10.2vh;
+    font-family: "Sree Krushnadevaraya", serif;
+    font-weight: 400;
+    font-size: 20px;
+  
+}
+#habilidades{
+    color: black;
+    position: relative;
+    left:57.5vw;
+    width: 2vw;
+    bottom:14.5vh;
+    font-family: "Sree Krushnadevaraya", serif;
+    font-weight: 400;
+    font-size: 20px;
+
+   
+
+}
+#contato{
+    color: black;
+    position: relative;
+    left: 77vw;
+    width: 2vw;
+    bottom:19vh;
+    font-family: "Sree Krushnadevaraya", serif;
+    font-weight: 400;
+    font-size: 20px;
+
+
+}
